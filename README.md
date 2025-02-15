@@ -7,7 +7,7 @@
 </div>
 
 ## 💡 **Sobre Mim**  
-Sou recém formado em ciencias econômicas e apaixonado por tecnologia. Atualmente, estou buscando novas oportunidades no mercado de trabalho. 
+Sou recém formado em ciências econômicas e apaixonado por tecnologia. Atualmente, estou buscando novas oportunidades no mercado de trabalho. 
 Tenho mais de dois anos de experiencia atuando com controle e análise de fluxo de caixa, conciliação bancária e contábil e controle de contas a pagar.
 
 🛠️ **Habilidades e Ferramentas**
