@@ -1,9 +1,7 @@
 ## **Olá! meu nome é Istvan.** 👋
 
 🎯 Recém formado em Ciências Econômicas.
-
 📚 Apaixonado por Tecnologia.
-
 🚀 Em busca de novas oportunidades.
 
 🛠️ **Habilidades e Ferramentas**
