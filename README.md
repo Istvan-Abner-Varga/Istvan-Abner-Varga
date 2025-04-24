@@ -9,8 +9,8 @@
 </div>
 
 ## 💡 **Sobre Mim**  
-Sou recém formado em ciências econômicas e apaixonado por tecnologia. Atualmente, estou buscando novas oportunidades no mercado de trabalho. 
-Tenho mais de dois anos de experiencia atuando com controle e análise de fluxo de caixa, conciliação bancária e contábil e controle de contas a pagar.
+Sou formado em Economia, com mais de três anos de experiência em gestão financeira e operacional, com atuação em empresas dos setores de varejo, consultoria e tecnologia. 
+Tenho sólida vivência em controle de contas a pagar, conciliações bancárias e contábeis, fluxo de caixa, apuração de impostos e elaboração de relatórios gerenciais. Ademais, tenho me dedicado no desenvolvimento analítico para agregar ao meu conhecimento na área financeira.
 
 🛠️ **Habilidades e Ferramentas**
 - 🖥️ Power BI e Excel.  
