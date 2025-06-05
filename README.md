@@ -9,8 +9,7 @@
 </div>
 
 ## 💡 **Sobre Mim**  
-Sou formado em Economia, com mais de três anos de experiência em gestão financeira e operacional, com atuação em empresas dos setores de varejo, consultoria e tecnologia. 
-Tenho sólida vivência em controle de contas a pagar, conciliações bancárias e contábeis, fluxo de caixa, apuração de impostos e elaboração de relatórios gerenciais. Ademais, tenho me dedicado no desenvolvimento analítico para agregar ao meu conhecimento na área financeira.
+Sou formado em Ciências Econômicas e tenho mais de dois anos de experiência em rotinas financeiras, como controle de fluxo de caixa, contas a pagar, conciliação bancária e contábil. Tenho interesse em tecnologia aplicada às finanças e, por isso, desenvolvo projetos voltados à análise de dados financeiros com ferramentas como Excel, Power BI e Python.
 
 🛠️ **Habilidades e Ferramentas**
 - 🖥️ Power BI e Excel.  
